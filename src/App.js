@@ -56,7 +56,7 @@ const App = () => {
         <div className={"div2"}>
           <img alt="small logo" src={largeLogo} className="logo"/>
           {/* <div className={"div3"} onClick={}></div> */}
-          <a href="mailto:info@nutshell.ink" className="div3" >contact us</a>
+          <a href="mailto:info@ntshll.com" className="div3" >contact us</a>
         </div>
         <div className={"div4"}>Knowledge in a nutshell.</div>
         <div className={"div5"}>
@@ -106,7 +106,7 @@ const App = () => {
         </div>
       </div>
       <div className="footer">
-          Nutshell — All Rights Reserved — Talk to us at <a href="mailto:info@nutshell.ink">info@nutshell.ink</a> — Coming Soon 
+          Nutshell — All Rights Reserved — Talk to us at <a href="mailto:info@ntshll.com">info@nutshell.ink</a> — Coming Soon 
       </div>
     </>
   );
