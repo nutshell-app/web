@@ -106,7 +106,7 @@ const App = () => {
         </div>
       </div>
       <div className="footer">
-          Nutshell — All Rights Reserved — Talk to us at <a href="mailto:info@ntshll.com">info@nutshell.ink</a> — Coming Soon 
+          Nutshell — All Rights Reserved — Talk to us at <a href="mailto:info@ntshll.com">info@ntshll.com</a> — Coming Soon 
       </div>
     </>
   );
